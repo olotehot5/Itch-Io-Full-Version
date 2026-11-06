@@ -247,4 +247,4 @@ This repository serves as the official landing page for itch.io. The software is
 **Get the most recent version of itch.io today!**
 
 ---
-**Last updated:** 2026-11-06 01:51:53 UTC
+**Last updated:** 2026-11-06 08:39:45 UTC
